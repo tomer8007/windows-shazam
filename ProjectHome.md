@@ -18,7 +18,7 @@ _windows-shazam_ is a portable software, so you don't have to install anything. 
 **NOTICE**: I haven't tested it on multiple computers, so if something doesn't work, please let me know.
 
 # Download #
-[Click Here](https://drive.google.com/uc?id=0B_iaVLWNgnHPXzkxOXg1MDhtTVE&export=download) to download this software.
+[Click Here](https://drive.google.com/uc?id=0B_iaVLWNgnHPXzkxOXg1MDhtTVE&export=download) to download the compiled software.
 
 Instructions:
 
