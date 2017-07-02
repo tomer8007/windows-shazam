@@ -1,4 +1,3 @@
-#How to use this software
 
 # Before Running #
 
