@@ -1,6 +1,6 @@
 # Overview #
 [Shazam](http://www.shazam.com) is a popular music identification service for smartphones.
-It works really good, but it doesn't have a version for Windows 7 computers.
+It works really well, but it doesn't have a version for Windows 7 computers.
 _windows-shazam_ is a little software that takes a sample of music from your microphone, and recongnize it by sending it to Shazam's servers.
 
 It basically does exactly the same thing as the official Shazam app, but on your windows 7 computer instead of your smartphone.
