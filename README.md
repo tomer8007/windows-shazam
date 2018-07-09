@@ -7,7 +7,7 @@ It basically does exactly the same thing as the official Shazam app, but on your
 
 ![http://i.imgur.com/AGsiyqN.png](http://i.imgur.com/AGsiyqN.png)
 
-To download this software, use [this](https://drive.google.com/uc?id=0B_iaVLWNgnHPXzkxOXg1MDhtTVE&export=download) link and follow the instructions.
+To download this software, see the Download section below.
 
 ## How it works ##
 This software listens to a 10-seconds sample from your default microphone. Then it sends it to Shazam's server at http://msft.shazamid.com/orbit/DoRecognition1, and makes it think the request was sent from a smartphone.
@@ -15,13 +15,16 @@ This software listens to a 10-seconds sample from your default microphone. Then 
 ## Usage ##
 _windows-shazam_ is a portable software, so you don't have to install anything. Just run it, and make sure it has the essential DLLs in the same folder.
 
+Basically just click the button, let it listen and get the song name. For more details see the [usage wiki page](https://github.com/tomer8007/windows-shazam/wiki/Usage).
+
 ## Download ##
-[Click Here](https://drive.google.com/uc?id=0B_iaVLWNgnHPXzkxOXg1MDhtTVE&export=download) to download the compiled software.
+You can download the latest compiled version from the [releases page](https://github.com/tomer8007/windows-shazam/releases).
+Or you can just [click here](https://drive.google.com/uc?id=0B_iaVLWNgnHPXzkxOXg1MDhtTVE&export=download) to download it from a different server.
 
 Instructions:
 
-1. Download the 'Release.zip' file.
+1. Download the zip file.
 
-2. Extract all the files.
+2. Extract all the files to a folder.
 
-3. Run the shazam.exe file and follow the usage instructions.
+3. Run the shazam.exe file and follow the [usage instructions](https://github.com/tomer8007/windows-shazam/wiki/Usage).
