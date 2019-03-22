@@ -1,3 +1,5 @@
+Important Note: This project is not working anymore due to Shazam server-side changes. Please see the [relevent issue](https://github.com/tomer8007/windows-shazam/issues/4) for more details.
+
 # Shazam for Windows 7 #
 [Shazam](http://www.shazam.com) is a popular music identification service for smartphones.
 It works really well, but it doesn't have a version for Windows 7 computers.
