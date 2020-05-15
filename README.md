@@ -21,12 +21,9 @@ Basically just click the button, let it listen and get the song name. For more d
 
 ## Download ##
 You can download the latest compiled version from the [releases page](https://github.com/tomer8007/windows-shazam/releases).
-Or you can just [click here](https://drive.google.com/uc?id=0B_iaVLWNgnHPXzkxOXg1MDhtTVE&export=download) to download it from a different server.
 
 Instructions:
 
 1. Download the zip file.
-
 2. Extract all the files to a folder.
-
 3. Run the shazam.exe file and follow the [usage instructions](https://github.com/tomer8007/windows-shazam/wiki/Usage).
